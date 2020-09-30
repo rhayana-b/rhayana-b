@@ -1,16 +1,16 @@
-### Hi there 👋
+### Olá, mundo! 
 
-<!--
-**rhayana-b/rhayana-b** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Meu nome é Rhayana. Descobri o mundo da programação há algum tempinho e decidi me dedicar a aprender um pouco mais.
 
-Here are some ideas to get you started:
+💻 Atualmente trabalho como estagiária no Front-End da Guidance Experts 
+🤓 Estou me dedicando mais ao JavaScript para o Front mas também gosto bastante de brincar com Python.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Um pouco mais de mim:
+
+[<img align="left" alt="Rhayana | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+[<img align="left" alt="Rhayana | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
+
+
+
+[instagram]: https://www.instagram.com/rhayana.b
+[linkedin]: https://www.linkedin.com/in/rhayana-barbosa
