@@ -2,7 +2,7 @@
 
 Meu nome é Rhayana. Descobri o mundo da programação há algum tempinho e decidi me dedicar a aprender um pouco mais.
 
-💻 Atualmente trabalho como estagiária no Front-End da Guidance Experts 
+💻 Atualmente trabalho com Front-End  (ReactJS e NextJS) na Guidance Experts 
 
 🤓 Estou me dedicando mais ao JavaScript para o Front mas também gosto bastante de brincar com Python.
 
