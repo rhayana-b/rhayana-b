@@ -6,6 +6,8 @@ Meu nome é Rhayana. Descobri o mundo da programação em 2018 e decidi me dedic
 
 🤓 Estou me dedicando mais ao JavaScript para o Front mas também gosto bastante de brincar com Python.
 
+Alguns projetinhos que trabalhei no último ano: [Portfólio](https://github.com/rhayana-b/portfolio)
+
 ## Um pouco mais de mim:
 
 [<img align="center" alt="Rhayana | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
