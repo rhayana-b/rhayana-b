@@ -1,6 +1,6 @@
 ### Olá, mundo! 
 
-Meu nome é Rhayana. Descobri o mundo da programação há algum tempinho e decidi me dedicar a aprender um pouco mais.
+Meu nome é Rhayana. Descobri o mundo da programação em 2018 e decidi me dedicar a aprender um pouco mais.
 
 💻 Atualmente trabalho com Front-End  (ReactJS e NextJS) na Guidance Experts 
 
