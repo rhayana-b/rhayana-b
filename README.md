@@ -2,9 +2,7 @@
 
 Meu nome é Rhayana. Descobri o mundo da programação em 2018 e decidi me dedicar a aprender um pouco mais.
 
-💻 Atualmente trabalho com Front-End  (ReactJS e NextJS) na Guidance Experts 
-
-🤓 Estou me dedicando mais ao JavaScript para o Front mas também gosto bastante de brincar com Python.
+💻 Atualmente trabalho com Front-End  (ReactJS) na Zup Innovation
 
 Alguns projetinhos que trabalhei no último ano: [Portfólio](https://github.com/rhayana-b/portfolio)
 
