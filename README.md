@@ -13,7 +13,7 @@ Well, I fell in love with FrontEnd ;)
 Some projects I worked on the last years: [Portfolio](https://github.com/rhayana-b/portfolio)
 
 
-## My Social Medias:
+### My Social Medias:
 
 [<img align="center" alt="Rhayana | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 [<img align="center" alt="Rhayana | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
@@ -37,7 +37,7 @@ Meu nome é Rhayana. Descobri o mundo da programação em 2018 e decidi me dedic
 
 Alguns projetinhos que trabalhei no último ano: [Portfólio](https://github.com/rhayana-b/portfolio)
 
-## Redes Sociais:
+### Redes Sociais:
 
 [<img align="center" alt="Rhayana | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 [<img align="center" alt="Rhayana | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
