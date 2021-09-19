@@ -24,6 +24,9 @@ Some projects I worked on the last years: [Portfolio](https://github.com/rhayana
 [linkedin]: https://www.linkedin.com/in/rhayana-barbosa
 
 
+
+
+
 ## PT-BR
 
 ### Olá, mundo! 
