@@ -10,7 +10,7 @@ Well, I fell in love with FrontEnd ;)
 
 💻 I am currently working at Zup Innovation as a Front-End Software Developer
 
-Alguns projetinhos que trabalhei no último ano: [Portfólio](https://github.com/rhayana-b/portfolio)
+Some projects I worked on the last years: [Portfolio](https://github.com/rhayana-b/portfolio)
 
 
 ## PT-BR
