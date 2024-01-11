@@ -5,9 +5,9 @@
 My name is Rhayana. 
 
 
-💻 I am currently working at Impulso Network as a Mid-level Front-End Developer.
+💻 I am currently working as a Mid-level Front-End Developer (JavaScript | React.JS | Next.JS).
 
-Some projects I worked on the last years: [Portfolio](https://github.com/rhayana-b/portfolio)
+Some projects I worked on in the past years: [Portfolio](https://github.com/rhayana-b/portfolio)
 
 
 ### My Social Medias:
@@ -30,7 +30,7 @@ Some projects I worked on the last years: [Portfolio](https://github.com/rhayana
 
 Meu nome é Rhayana. 
 
-💻 Atualmente trabalho com Front-End (ReactJS) para a Impulso Network
+💻 Atualmente trabalho como Front-End nível Pleno (JavaScript | React.JS | Next.JS)
 
 Alguns projetinhos que trabalhei nos últimos anos: [Portfólio](https://github.com/rhayana-b/portfolio)
 
